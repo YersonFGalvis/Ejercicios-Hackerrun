@@ -1,0 +1,14 @@
+C:\Users\yerso\OneDrive\Escritorio\Ejercicios Hackerrun\TimeConversor\bin\Debug\net6.0\TimeConversor.exe
+C:\Users\yerso\OneDrive\Escritorio\Ejercicios Hackerrun\TimeConversor\bin\Debug\net6.0\TimeConversor.deps.json
+C:\Users\yerso\OneDrive\Escritorio\Ejercicios Hackerrun\TimeConversor\bin\Debug\net6.0\TimeConversor.runtimeconfig.json
+C:\Users\yerso\OneDrive\Escritorio\Ejercicios Hackerrun\TimeConversor\bin\Debug\net6.0\TimeConversor.dll
+C:\Users\yerso\OneDrive\Escritorio\Ejercicios Hackerrun\TimeConversor\bin\Debug\net6.0\TimeConversor.pdb
+C:\Users\yerso\OneDrive\Escritorio\Ejercicios Hackerrun\TimeConversor\obj\Debug\net6.0\TimeConversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yerso\OneDrive\Escritorio\Ejercicios Hackerrun\TimeConversor\obj\Debug\net6.0\TimeConversor.AssemblyInfoInputs.cache
+C:\Users\yerso\OneDrive\Escritorio\Ejercicios Hackerrun\TimeConversor\obj\Debug\net6.0\TimeConversor.AssemblyInfo.cs
+C:\Users\yerso\OneDrive\Escritorio\Ejercicios Hackerrun\TimeConversor\obj\Debug\net6.0\TimeConversor.csproj.CoreCompileInputs.cache
+C:\Users\yerso\OneDrive\Escritorio\Ejercicios Hackerrun\TimeConversor\obj\Debug\net6.0\TimeConversor.dll
+C:\Users\yerso\OneDrive\Escritorio\Ejercicios Hackerrun\TimeConversor\obj\Debug\net6.0\refint\TimeConversor.dll
+C:\Users\yerso\OneDrive\Escritorio\Ejercicios Hackerrun\TimeConversor\obj\Debug\net6.0\TimeConversor.pdb
+C:\Users\yerso\OneDrive\Escritorio\Ejercicios Hackerrun\TimeConversor\obj\Debug\net6.0\TimeConversor.genruntimeconfig.cache
+C:\Users\yerso\OneDrive\Escritorio\Ejercicios Hackerrun\TimeConversor\obj\Debug\net6.0\ref\TimeConversor.dll
